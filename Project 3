@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+<title>home</title>
+<style>
+body {background-color: lightblue;}
+h1   {color: darkred; text-align: center;}
+h2   {color: Green; text-align: center; font-size: 27px;}
+h3   {color: Grey; text-align: center;}
+h4   {color: blue; text-align: center;}
+h5   {color: blue; text-align: center;}
+h6  {color: black; font-size: 23px;}
+h7   {color: Green; font-size: 25px;}
+p    {color: black;font-family: verdana; font-size: 21px;}
+</style>
+</head>
+<body>
+
+<h1>Theory of a Deadman</h1>
+
+<p>The band Theory of a Deadman is an alternative Canadian band.That started in 1999.The band managed to sneak a demo to the lead singer, Chad Kroger, of Nickelback. They were the first band to be signed to Kroger’s label, 604 Records. Their self-titled album was released on September 17, 2002. The band name is from a song on this album that was about a man about to commit suicide. The song was renamed The Last Song. The band has been more popular in Canada but has found success also in the United States. As of the year 2020, they have released seven albums.</p>
+<h2>The Band</h2>
+<p>The band consists of 4 members: Tyler Connolly, vocals, rhythm guitar and piano, Dave Brenner, rhythm guitar, Dean Back, bass guitar, Joey Dandeneau, drums. They have played many tours most notably with Motley Crue, 3 Doors Down, Three Days Grace.
+
+<h2>Theory of a Deadman</h2>
+<h5><img src="https://th.bing.com/th/id/R.c9348e4a718d04249c52aa976a9e4538?rik=BDOARBc7pVIb4A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fdlJiZx9.jpg&ehk=gh7SboD9PyYl0pSP96vORF7sPxcX27Jbtz4uVQ7QWwY%3d&risl=&pid=ImgRaw&r=0" alt="Theory of a Deadman" width="500" height="333"></h5>
+
+<h4><p><a href="https://www.theoryofadeadman.com/?frontpage=true">Theory of a Dead!</a></p></h4>
+<h1>Their Albums</h1>
+<h2>All or Nothing</h2>
+
+<h5><img src="https://i.ytimg.com/vi/RVr-KLMqW6U/hqdefault.jpg" alt="Theory of a Deadman song" width="400" height="300"></h5>
+
+               
+<h2>Wake Up Call</h2>
+
+<h5><img src="https://th.bing.com/th/id/R.f6563a5e206a6459354585ceb4ca3b99?rik=gJhIIGVSSWN6Ig&riu=http%3a%2f%2fimages.genius.com%2f18eb9703e81d1f3b99486fff4fce9722.939x939x1.jpg&ehk=cylbRReuYD%2b1DAtDSeq8N7Q%2bsh3UKBR%2fNTqYrsyTOMg%3d&risl=&pid=ImgRaw&r=0" alt="Theory of a Deadman song 2" width="400" height="300"></h5>
+
+<h2>Savages</h2>
+
+
+<h5><img src="https://th.bing.com/th/id/OIP.AbcRrwD9Vj1Q6PD_LRYSWAHaHa?pid=ImgDet&rs=1" alt="Theory of a Deadman song 3" width="400" height="300"></h5>
+<h1>Songs</h1>
+<h7>All or Nothening</h7>
+<p>"Nothing Could Come Between Us""Make Up Your Mind""No Surprise""Say Goodbye""Santa Monica""So Happy""Bad Girlfriend""All or Nothing""Hate My Life""Not Meant to Be""By the Way""Drown""Savages""Angel""Rx (Medicate)""Straight Jacket""Wicked Game""History of Violence"</p>
+
+<h7>Wake Up Call</h7>
+
+<p>"Nothing Could Come Between Us""Make Up Your Mind""No Surprise""Say Goodbye""Santa Monica""So Happy""Bad Girlfriend""All or Nothing""Hate My Life""Not Meant to Be""By the Way""Drown""Savages""Angel""Rx (Medicate)""Straight Jacket""Wicked Game""History of Violence"</p>
+
+<h7>Savages</h7>
+<p>"Nothing Could Come Between Us""Make Up Your Mind""No Surprise""Say Goodbye""Santa Monica""So Happy""Bad Girlfriend""All or Nothing""Hate My Life""Not Meant to Be""By the Way""Drown""Savages""Angel""Rx (Medicate)""Straight Jacket""Wicked Game""History of Violence"</p>
+
+<h1>News</h1>
+<p> The last concert was on September 2022 at the Wilma in Missoula, Montana. They have concerts that they will be doing. Some of the dates are Oct. 5, 2022, Oct 8, 2022 and etc.</p>
+<h4><p><a href="https://www.concertarchives.org/bands/theory-of-a-deadman">Concert Archives</a></p></h4>
+</body> 
+</html>
 
