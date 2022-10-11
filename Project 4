@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/style.css">
+<title>home</title>
+<style>
+body {background-color: silver;}
+h1   {color: firebrick; text-align: center;font-size: 75px}
+h2   {color: coral ; text-align: center; font-size: 45px;}
+h3   {color: Grey; text-align: center;}
+h4   {color: blue; text-align: center;}
+h5   {color: blue; text-align: center;}
+h6  {color: lawn green;font-family: castellar; font-size: 23px;}
+p    {color: black;font-family: verdana; font-size: 21px;}
+</style>
+</head>
+<body>
+
+<h1>Thoughts and Words.com</h1>
+
+<p>This design business is geared towards helping customers by designing the art work and aesthetics for their web sites. The goal of the business is design more appealing websites for customers. The business can improve their websites and then hopefully, increase traffic on their sites. The intended audience would be determined by the company that would use the service. I would have to determine if this is a company is working with an older, less technological demographic make the site more basic and easily navigated. With the younger and more technologically skilled, the site could be more advanced and have more components within the site. The goal of the site is to appeal to different clients to provide the service to make more appealing websites for their company. The website will offer text and images that will be aesthetically appealing to the company and the user. For any website, there will need to be research into what is successful for their target audience. </p>
+<h2>Stylizing Text</h2>
+<p>When I would use other sources, it would be for designs and manipulations for example using diferent text to change one word. See below for examples. 
+<h2><img src="https://www.tutorialbrain.com/wp-content/uploads/2019/02/Font-in-HTML.jpg" alt="style" width="600" height="400"></h2>
+
+<h2>We Explore Color</h2>
+<h5><img src="https://i.pinimg.com/736x/3c/86/d1/3c86d1ba564767286109c17f3a48809e--css-style-ars-technica.jpg" alt="color" width="600" height="400"></h5>
+
+<h4><p><a href="https://notepad-plus-plus.org/"> Info on our text editior click here</a></p></h4>
+
+<h1>Images improve your work</h1>
+
+
+<h5><img src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_960_720.png" alt="Notepad++" width="400" height="300"></h5>
+
+               
+<h2> We create a great concept of a website</h2>
+
+<h5><img src="https://cdn.pixabay.com/photo/2017/09/27/09/21/concept-2791440_960_720.jpg" alt="cikirs" width="400" height="300"></h5>
+
+<h2>We focus on the side of being creative</h2>
+
+
+<h5><img src="https://cdn.pixabay.com/photo/2017/03/27/19/16/buckled-book-2180047_960_720.jpg" alt="fantasy" width="400" height="300"></h5>
+<h4><p><a href="https://www.adobe.com/creativecloud.html?mv=search&mv=search&sdid=K42KVTW8&ef_id=e8f2a639730f193f4364c57c01f37a72:G:s&s_kwcid=AL!3085!10!78958863207233!78958874785853&msclkid=e8f2a639730f193f4364c57c01f37a72"> We have access to all Adobe products</a></p></h4>
+
+
+<h6>Contact us for more information at +1 582-262-9031.</h6>
 
